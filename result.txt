@@ -1,0 +1,13 @@
+tech o4
+
+PERC20 was deployed to 0x31bC5Fb20396B42C0e0fAe004B80f301c39801f4
+
+
+Mint Transaction Hash:  0x16c666bb6d0b17cb363fcecf31cf7def7215c0dbb81d328751fa88c32f7912c9
+
+
+Transfer Transaction Hash:  0xbcdea021a0b1aa33541cf1e7be938f1da89f225593e51e350657bb82f31986d6
+
+
+
+
